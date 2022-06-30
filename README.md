@@ -1,2 +1,2 @@
 # Api-Convention-Analyser
- Um projeto API que ilustra as conveçôes e o analisador de convenções baseado nas inteções de cada verbo da Controller.
+ Um projeto WebAPI que ilustra a utlização do Conventions e o Analyser de convenções baseado nas inteções de cada verbo na Controller.
